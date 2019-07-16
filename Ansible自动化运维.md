@@ -73,3 +73,4 @@ ansible-galaxy install geerlinguy.ntp
 
 gitnote-image 
 
+![image.png](0)
