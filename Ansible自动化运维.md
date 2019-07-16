@@ -62,6 +62,8 @@ ansible-galaxy install geerlinguy.ntp
 **目录结构**
 ![image.png](2)
 
+![image.png](0)
+
 
 
 
