@@ -52,26 +52,6 @@ ssh-copy-id 192.168.37.17
 ssh-copy-id 192.168.37.27
 
 ansible-galaxy install geerlinguy.ntp
-![title](.local/static/2019/6/3/1563325793824.1563325793826.png)
-
-![title](.local/static/2019/6/3/1563325040056.1563325040250.png)![title](https://i.loli.net/2019/07/17/5d2e727c7baa295222.png)
-
-![image.png](0)
-```
-
-![title](.local/static/2019/6/3/1563325097828.1563325097829.png)
-
-![title](https://i.loli.net/2019/07/17/5d2e72bfd746552777.png)
-
-
-![title](.local/static/2019/6/3/1563325689435.1563325689545.png)
-
-https://i.loli.net/2019/07/17/5的境地
-ad覅nifd2e72bfd746552777.png
-![15602420441.jpg](1)
-
-
-![15602442471.jpg](0)
 
 
 
