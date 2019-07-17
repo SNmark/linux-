@@ -66,6 +66,6 @@ ansible-galaxy install geerlinguy.ntp
 
 
 
-
+![15602420441.jpg](1)
 
 
