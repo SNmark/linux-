@@ -55,8 +55,4 @@ ansible-galaxy install geerlinguy.ntp
 
 
 
-![title](https://i.loli.net/2019/07/17/5d2e7703755ed11027.png)
-
-
-
 
