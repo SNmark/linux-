@@ -1,7 +1,7 @@
 # Ansible自动化运维
 
 ```
-列出命令模块ansible-doc   
+列出命令模块an![title](.local/static/2019/6/3/1560309723129.1563326019900.png)sible-doc   
 [root@CentOS7 ~]#ansible-doc hostname -s
 - name: Manage hostname
   hostname:
@@ -52,6 +52,8 @@ ssh-copy-id 192.168.37.17
 ssh-copy-id 192.168.37.27
 
 ansible-galaxy install geerlinguy.ntp
+
+![title](.local/static/2019/6/3/1560309723129.1563326031085.png)![title](https://i.loli.net/2019/07/17/5d2e7659404e735622.png)
 
 
 
